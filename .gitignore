@@ -1,0 +1,6 @@
+# Ignorar entornos virtuales
+venv/
+env/
+tf-gpu/
+*.pyc
+__pycache__/
