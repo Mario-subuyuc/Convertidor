@@ -53,7 +53,7 @@ def predecir():
 
 
 import matplotlib.pyplot as plt
-plt.xlabel("# Epoca")
+plt.xlabel("# Iteracion")
 plt.ylabel("Magnitud de pérdida")
 plt.plot(historial.history["loss"])
 plt.show()
